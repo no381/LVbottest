@@ -1,12 +1,14 @@
 {
-    "updated": 1458755420,
+    "updated": 520942156,
     "telegram": {
-        "token": "012345678:ABCDEF",
-        "chatId": 123
+        "token": "243093130:AAFPJ4Kx6JVDbGSo2kz9uC02thseNuSDf5g",
+        "chatId": 77929638
     },
     "tumblr": {
-        "site": "tumblrfanboy.com",
+        "site": "http://no381.tumblr.com//",
         "limit": 7,
-        "consumerKey": "CONSUMER_KEY"
+        "consumerKey": "iZdZ3vLogjfe3rIJGPXyY80QC4JMqxxTY9vJLyAxihGnCFFR1v"
     }
 }
+
+aaa
